@@ -2,7 +2,7 @@ automax
 
 ---
 
-10/22/2013 - Max6 (this documentation is under construction)
+6/25/2014 Documentation at: [http://reactivemusic.net/?p=16708](http://reactivemusic.net/?p=16708)
 
 Example of using OBD-II diagnostic port to read RPM data and control Max/MSP engine simulation
 
