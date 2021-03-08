@@ -2,6 +2,8 @@ automax
 
 ---
 
+3/8/2021: tested with latest version of Max8. Have not connected to OBD sensor - but the patch, itself works. Although there are dozens of pictctl error messages in the Max Console. I'm not sure what's causing them. Probably the nanocontroller panel - but it doesn't affect the operation of the patch. Will be testing OBD sensor again soon.
+
 6/25/2014 Documentation at: [http://reactivemusic.net/?p=16708](http://reactivemusic.net/?p=16708)
 
 Example of using OBD-II diagnostic port to read RPM data and control Max/MSP engine simulation
